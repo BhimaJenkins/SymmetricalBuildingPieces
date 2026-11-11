@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net48</TargetFramework>
+		<AssemblyName>SymmetricalBuildingPieces</AssemblyName>
+		<RootNamespace>SymmetricalBuildingPieces</RootNamespace>
+		<LangVersion>latest</LangVersion>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+		<!-- Point this at your Valheim install (or copy the reference block from KeenCombat's csproj) -->
+		<ValheimDir Condition="'$(ValheimDir)' == ''">C:\Program Files (x86)\Steam\steamapps\common\Valheim</ValheimDir>
+		<Managed>$(ValheimDir)\valheim_Data\Managed</Managed>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Reference Include="BepInEx">
+			<HintPath>$(ValheimDir)\BepInEx\core\BepInEx.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="0Harmony">
+			<HintPath>$(ValheimDir)\BepInEx\core\0Harmony.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="assembly_valheim">
+			<HintPath>$(Managed)\assembly_valheim.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="assembly_guiutils">
+			<HintPath>$(Managed)\assembly_guiutils.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="assembly_utils">
+			<HintPath>$(Managed)\assembly_utils.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="UnityEngine">
+			<HintPath>$(Managed)\UnityEngine.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="UnityEngine.CoreModule">
+			<HintPath>$(Managed)\UnityEngine.CoreModule.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+	</ItemGroup>
+
+</Project>

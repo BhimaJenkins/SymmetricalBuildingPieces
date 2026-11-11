@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = SymmetricalBuildingPieces
+build_property.ProjectDir = C:\Users\pfort\Documents\SymmetricalBuildingPieces\SymmetricalBuildingPieces-src2\SymmetricalBuildingPieces\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

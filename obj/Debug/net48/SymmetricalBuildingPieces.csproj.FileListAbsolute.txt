@@ -1,0 +1,7 @@
+C:\Users\pfort\Documents\SymmetricalBuildingPieces\SymmetricalBuildingPieces-src2\SymmetricalBuildingPieces\bin\Debug\net48\SymmetricalBuildingPieces.dll
+C:\Users\pfort\Documents\SymmetricalBuildingPieces\SymmetricalBuildingPieces-src2\SymmetricalBuildingPieces\bin\Debug\net48\SymmetricalBuildingPieces.pdb
+C:\Users\pfort\Documents\SymmetricalBuildingPieces\SymmetricalBuildingPieces-src2\SymmetricalBuildingPieces\obj\Debug\net48\SymmetricalBuildingPieces.csproj.AssemblyReference.cache
+C:\Users\pfort\Documents\SymmetricalBuildingPieces\SymmetricalBuildingPieces-src2\SymmetricalBuildingPieces\obj\Debug\net48\SymmetricalBuildingPieces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pfort\Documents\SymmetricalBuildingPieces\SymmetricalBuildingPieces-src2\SymmetricalBuildingPieces\obj\Debug\net48\SymmetricalBuildingPieces.csproj.CoreCompileInputs.cache
+C:\Users\pfort\Documents\SymmetricalBuildingPieces\SymmetricalBuildingPieces-src2\SymmetricalBuildingPieces\obj\Debug\net48\SymmetricalBuildingPieces.dll
+C:\Users\pfort\Documents\SymmetricalBuildingPieces\SymmetricalBuildingPieces-src2\SymmetricalBuildingPieces\obj\Debug\net48\SymmetricalBuildingPieces.pdb
